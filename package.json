@@ -28,6 +28,7 @@
     "vue-i18n": "^7.8.0",
     "vue-router": "^3.0.1",
     "vuedraggable": "^2.16.0",
+    "vuescroll": "^4.9.0-beta.11",
     "vuex": "^3.0.1",
     "wangeditor": "^3.1.1",
     "xlsx": "^0.13.3"
@@ -45,6 +46,8 @@
     "less-loader": "^4.0.5",
     "lint-staged": "^6.0.0",
     "mockjs": "^1.0.1-beta3",
+    "node-sass": "^4.10.0",
+    "sass-loader": "^7.1.0",
     "vue-template-compiler": "^2.5.13"
   },
   "browserslist": [
